@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     'bootstrap4',
     'widget_tweaks',
     'accounts',
-    'django.contrib.sites',
+    #'django.contrib.sites',
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
